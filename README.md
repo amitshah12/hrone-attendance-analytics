@@ -62,8 +62,6 @@ git clone https://github.com/amitshah12/hrone-attendance-analytics.git
 cd hrone-attendance-analytics
 ```
 
-Replace the placeholders with your repository URL and directory name.
-
 ### 2. Create a virtual environment
 
 **Windows — Command Prompt**
