@@ -58,8 +58,8 @@ Install the following before running the API:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_PUBLIC_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
+git clone https://github.com/amitshah12/hrone-attendance-analytics.git
+cd hrone-attendance-analytics
 ```
 
 Replace the placeholders with your repository URL and directory name.
